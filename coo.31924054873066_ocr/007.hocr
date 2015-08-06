@@ -1,0 +1,28 @@
+  <div class='ocr_page' id='page_1' title='image "/cluster/home/n/w/nwhite01/storage/ocr_20150623/25:no.1/coo.31924054873066/007.png"; bbox 0 0 2085 3140; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1064 1749 1170 3081">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1064 1749 1170 3081">
+     <span class='ocr_line' id='line_1_1' title="bbox 1064 1749 1170 1883; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 1064 1749 1170 1883; x_wconf 87' lang='lat' dir='ltr'><strong>&#39;l</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1071 2983 1168 3081; baseline 0 0"><span class='ocrx_word' id='word_1_2' title='bbox 1071 2983 1168 3081; x_wconf 58' lang='grc' dir='ltr'><strong>εξ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 968 79 1285 2980">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 971 1270 1168 1584">
+     <span class='ocr_line' id='line_1_3' title="bbox 971 1270 1168 1584; baseline -0.005 0"><span class='ocrx_word' id='word_1_3' title='bbox 971 1270 1168 1584; x_wconf 37' lang='lat' dir='ltr'><strong>i-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 520 876 953 1580">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 595 876 953 1207">
+     <span class='ocr_line' id='line_1_4' title="bbox 595 876 953 1207; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 595 876 953 1207; x_wconf 54' lang='grc' dir='ltr'><strong>*ὓ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 476 2855 604 3046">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 476 2855 604 3046">
+     <span class='ocr_line' id='line_1_5' title="bbox 476 2855 604 3046; baseline 0 -56"><span class='ocrx_word' id='word_1_5' title='bbox 483 2855 604 3046; x_wconf 33' lang='grc' dir='ltr'><strong>κ’.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
